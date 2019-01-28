@@ -1,1 +1,3 @@
 Trolling identified from Profanity, Sentiment, and Second person pronoun. The dataset was seperated into those three categories.
+files named Commentsxx.xml contains information whether the comments has words from profanity list.
+
