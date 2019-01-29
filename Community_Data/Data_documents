@@ -1,3 +1,4 @@
-Trolling identified from Profanity, Sentiment, and Second person pronoun. The dataset was seperated into those three categories.
-files named Commentsxx.xml contains information whether the comments has words from profanity list.
-
+Trolling identified based on profanity, sentiment, and second person pronoun. The dataset was seperated into those three categories.
+Files named Commentsxx.xml contains information whether the comments has words from profanity list. 
+Files named Classifier-xx.csv contains information of sentiment, the las two coloums are sentiment label and the confidence of the sentiment.
+The file named "trolltable.csv" is the cleaned dataset with all network matrics: degree (including outdegree and indegree),betweenness, closeness, eigenvalue centrality, modularity, weak and strong components. 
