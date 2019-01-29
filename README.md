@@ -13,5 +13,5 @@ Pre-troll networks were contructed from each community (video) for the first 5 t
 
 # Variables
 Individual level variables: degree centrality (indegree and outdegree), activity level, the numebr of responses to the troll before an individual engaging in the community, the number of responses to all trolls in the community before the individual join in the community, the number of interactions with who respond to trolls
-community level variables: totoal number of responses to trolls, the density of the networks
-comment level variable: negativity score
+Community level variables: totoal number of responses to trolls, the density of the networks
+Comment level variable: negativity score
